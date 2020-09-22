@@ -1,0 +1,12 @@
+/Users/sara.fotros/Development/code/democonsole/bin/Debug/netcoreapp3.1/democonsole.deps.json
+/Users/sara.fotros/Development/code/democonsole/bin/Debug/netcoreapp3.1/democonsole.runtimeconfig.json
+/Users/sara.fotros/Development/code/democonsole/bin/Debug/netcoreapp3.1/democonsole.runtimeconfig.dev.json
+/Users/sara.fotros/Development/code/democonsole/bin/Debug/netcoreapp3.1/democonsole.dll
+/Users/sara.fotros/Development/code/democonsole/bin/Debug/netcoreapp3.1/democonsole.pdb
+/Users/sara.fotros/Development/code/democonsole/obj/Debug/netcoreapp3.1/democonsole.csprojAssemblyReference.cache
+/Users/sara.fotros/Development/code/democonsole/obj/Debug/netcoreapp3.1/democonsole.AssemblyInfoInputs.cache
+/Users/sara.fotros/Development/code/democonsole/obj/Debug/netcoreapp3.1/democonsole.AssemblyInfo.cs
+/Users/sara.fotros/Development/code/democonsole/obj/Debug/netcoreapp3.1/democonsole.csproj.CoreCompileInputs.cache
+/Users/sara.fotros/Development/code/democonsole/obj/Debug/netcoreapp3.1/democonsole.dll
+/Users/sara.fotros/Development/code/democonsole/obj/Debug/netcoreapp3.1/democonsole.pdb
+/Users/sara.fotros/Development/code/democonsole/obj/Debug/netcoreapp3.1/democonsole.genruntimeconfig.cache
